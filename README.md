@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://github.com/Mai201/github-stats/blob/master/generated/languages.svg)
+<!-- Pour mémoire: langages ignorés dans secret EXCLUDED_LANGS:
+"Java,Starlark,Shell" -->
+
+<!-- 
+![](https://github.com/Mai201/github-stats/blob/master/generated/overview.svg) -->
